@@ -36,7 +36,7 @@ titles = anime_data['names']  # array com os títulos dos textos
 synopses = anime_data['content']  # array com os textos
 
 # distil roberta is used because it is smaller and faster
-MODEL_NAME = 'distilroberta-base'
+MODEL_NAME = 'roberta-base'
 
 word_embedding_model = models.Transformer(
     MODEL_NAME, max_seq_length=160)
@@ -78,6 +78,7 @@ def generate_train_data():
         text = synopses[data[1]]
         text = simple_preprocess_text(text)
         query = simple_preprocess_text(data[0])
+        title = simple_preprocess_text(titles[data[1]])
         # convert the label to float
         label = float(data[2])
 
@@ -85,6 +86,12 @@ def generate_train_data():
         texts.append(text)
         queries.append(query)
         labels.append(label)
+
+        train_examples.append(
+            InputExample(texts=[title, text], label=label))
+        
+        train_examples.append(
+            InputExample(texts=[text, title], label=label))
 
         train_examples.append(
             InputExample(texts=[query, text], label=label))
@@ -135,12 +142,12 @@ def train():
     print("test samples len: ", len(test_samples))
 
     # Define train dataset, the dataloader and the train loss
-    train_dataloader = DataLoader(train_samples, shuffle=True, batch_size=24)
+    train_dataloader = DataLoader(train_samples, shuffle=True, batch_size=36)
 
     train_loss = losses.MultipleNegativesRankingLoss(model)
     # train_loss = losses.CosineSimilarityLoss(model)
 
-    epochs = 10
+    epochs = 30
     evaluation_steps = 800
     warmup_steps = int(len(train_dataloader) *
                        epochs * 0.1)  # 10% of train data
@@ -159,7 +166,7 @@ def train():
         show_progress_bar=True, checkpoint_save_steps=evaluation_steps)
 
     # Evaluate the model
-    evaluate(test_samples, roberta_trained_model_path)
+    # evaluate(test_samples, roberta_trained_model_path)
 
 
 train()
