@@ -1,0 +1,1403 @@
+[
+  {
+    "title": "Haikyuu",
+    "sentences": [
+      "haikyuu"
+    ],
+    "relatedDocs": [
+      0,
+      721,
+      1604,
+      851,
+      1600,
+      3398,
+      1601,
+      13227,
+      161,
+      30,
+      84,
+      132,
+      8308,
+      10
+    ]
+  },
+  {
+    "title": "Naruto",
+    "sentences": [
+      "naruto",
+      "naruto shippuden"
+    ],
+    "relatedDocs": [
+      142,
+      15165,
+      3842,
+      802,
+      473,
+      5595,
+      13469,
+      12515,
+      13468,
+      11232,
+      5144,
+      10178,
+      906,
+      8846,
+      5197,
+      3644,
+      14917,
+      14869,
+      6698,
+      12052,
+      14872
+    ]
+  },
+  {
+    "title": "Death Note",
+    "sentences": [
+      "death note"
+    ],
+    "relatedDocs": [
+      726,
+      977
+    ]
+  },
+  {
+    "title": "Bleach",
+    "sentences": [
+      "bleach"
+    ],
+    "relatedDocs": [
+      57,
+      3103,
+      15084,
+      4998,
+      9469,
+      10161,
+      5478
+    ]
+  },
+  {
+    "title": "Dragon Ball",
+    "sentences": [
+      "dragon ball z",
+      "dragon ball"
+    ],
+    "relatedDocs": [
+      370,
+      524,
+      9839,
+      819,
+      875,
+      5569,
+      3226,
+      5862,
+      14021,
+      491,
+      14419,
+      8851,
+      9840,
+      14222,
+      6311,
+      13783,
+      5320,
+      5222,
+      5432,
+      5627,
+      5169,
+      6024,
+      14575,
+      5860,
+      7423,
+      6046,
+      2827,
+      5063,
+      5111,
+      7420,
+      4872,
+      5319,
+      4910,
+      9999,
+      1273,
+      10125,
+      5715,
+      15146,
+      5317,
+      10018,
+      837
+    ]
+  },
+  {
+    "title": "Fullmetal Alchemist",
+    "sentences": [
+      "fullmetal alchemist"
+    ],
+    "relatedDocs": [
+      499,
+      3,
+      14660,
+      12908,
+      340,
+      13378,
+      5886,
+      5531,
+      2894
+    ]
+  },
+  {
+    "title": "One Punch Man",
+    "sentences": [
+      "one punch man"
+    ],
+    "relatedDocs": [
+      16,
+      8583,
+      863,
+      881,
+      10096,
+      8939
+    ]
+  },
+  {
+    "title": "Saint Seiya",
+    "sentences": [
+      "saint seya",
+      "knights of the zodiac"
+    ],
+    "relatedDocs": [
+      111,
+      14529,
+      5180,
+      3165,
+      4333,
+      11987,
+      7208,
+      12468,
+      21,
+      2940,
+      394,
+      4920,
+      14598,
+      15152,
+      348,
+      410,
+      5685,
+      781
+    ]
+  },
+  {
+    "title": "One Piece",
+    "sentences": [
+      "one piece"
+    ],
+    "relatedDocs": [
+      693,
+      13970,
+      14996,
+      519,
+      312,
+      7621,
+      11089,
+      5232,
+      5552,
+      14358,
+      503,
+      1446,
+      10098,
+      13601,
+      14999,
+      10006,
+      1186,
+      14955,
+      3900,
+      6581,
+      5735,
+      13759,
+      14783,
+      14603,
+      14997,
+      321,
+      4640,
+      4969,
+      11726,
+      15100,
+      14672,
+      14674,
+      13600,
+      14744,
+      4694,
+      14005,
+      7442,
+      1020,
+      1210,
+      13882,
+      3859,
+      14673,
+      238,
+      471,
+      412,
+      237,
+      13397,
+      5366,
+      5932,
+      14438,
+      932
+    ]
+  },
+  {
+    "title": "Hunter x Hunter",
+    "sentences": [
+      "hunter x hunter"
+    ],
+    "relatedDocs": [
+      659,
+      758,
+      14192,
+      511,
+      565,
+      14557,
+      14483,
+      585,
+      13526,
+      10228
+    ]
+  },
+  {
+    "title": "Shingeki no Kyojin",
+    "sentences": [
+      "shingeki no kyojin",
+      "attack on titan"
+    ],
+    "relatedDocs": [
+      638,
+      667,
+      675,
+      62,
+      756,
+      1545,
+      885,
+      4829,
+      14523,
+      8826,
+      613,
+      3590,
+      1043,
+      13358,
+      886,
+      5654
+    ]
+  },
+  {
+    "title": "Boku no Hero Academia",
+    "sentences": [
+      "my hero academia",
+      "boku no hero academia"
+    ],
+    "relatedDocs": [
+      588,
+      514,
+      702,
+      710,
+      315,
+      8502,
+      10127,
+      2930
+    ]
+  },
+  {
+    "title": "Tokyo Ghoul",
+    "sentences": [
+      "tokyo ghoul"
+    ],
+    "relatedDocs": [
+      138,
+      5154,
+      14257,
+      9187,
+      13382,
+      11104
+    ]
+  },
+  {
+    "title": "Fairy Tail",
+    "sentences": [
+      "fairy tail"
+    ],
+    "relatedDocs": [
+      147,
+      193,
+      5061,
+      13200,
+      14725,
+      835,
+      2928,
+      5280,
+      9853
+    ]
+  },
+  {
+    "title": "Sword Art Online",
+    "sentences": [
+      "sword art online"
+    ],
+    "relatedDocs": [
+      7465,
+      5008,
+      4880,
+      7140,
+      9967,
+      778,
+      9797,
+      14863,
+      1083,
+      91,
+      8603,
+      12896,
+      13354,
+      3657,
+      9072
+    ]
+  },
+  {
+    "title": "Overlord",
+    "sentences": [
+      "overlord"
+    ],
+    "relatedDocs": [
+      287,
+      112,
+      334,
+      4784,
+      14441,
+      5845,
+      5124,
+      1047,
+      14095,
+      14413,
+      5250
+    ]
+  },
+  {
+    "title": "Black Clover",
+    "sentences": [
+      "black clover"
+    ],
+    "relatedDocs": [
+      2839,
+      7277,
+      1429,
+      5757
+    ]
+  },
+  {
+    "title": "Kimetsu no Yaiba",
+    "sentences": [
+      "kimetsu no yaiba",
+      "demon slayer"
+    ],
+    "relatedDocs": [
+      7,
+      1579
+    ]
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "sentences": [
+      "jujutsu kaisen"
+    ],
+    "relatedDocs": [
+      4123,
+      1588
+    ]
+  },
+  {
+    "title": "Code Geass",
+    "sentences": [
+      "code geass"
+    ],
+    "relatedDocs": [
+      407,
+      745,
+      9,
+      3144,
+      12606,
+      304,
+      406,
+      902,
+      4937,
+      1309,
+      14974,
+      3143,
+      8675,
+      14939,
+      4724,
+      13234,
+      14733,
+      11380,
+      89,
+      3506,
+      14215,
+      5324,
+      12077,
+      9951,
+      14493,
+      5995,
+      4938,
+      4486
+    ]
+  },
+  {
+    "title": "Steins;Gate",
+    "sentences": [
+      "steins gate"
+    ],
+    "relatedDocs": [
+      695,
+      759,
+      623,
+      690,
+      12363,
+      539,
+      3584
+    ]
+  },
+  {
+    "title": "Gintama.",
+    "sentences": [
+      "gintama",
+      "gin tama"
+    ],
+    "relatedDocs": [
+      11,
+      13,
+      754,
+      755,
+      12901,
+      15,
+      689,
+      5828,
+      245,
+      621,
+      555,
+      5530,
+      457,
+      740,
+      683,
+      566,
+      744,
+      12
+    ]
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Break Time",
+    "sentences": [
+      "re:zero kara hajimeru break time",
+      "re:zero starting life in another world"
+    ],
+    "relatedDocs": [
+      8553,
+      578,
+      1549,
+      5549,
+      4967
+    ]
+  },
+  {
+    "title": "Cowboy Bebop",
+    "sentences": [
+      "cowboy bebop"
+    ],
+    "relatedDocs": [
+      750,
+      630,
+      8313,
+      13899
+    ]
+  },
+  {
+    "title": "No Game No Life",
+    "sentences": [
+      "no game no life"
+    ],
+    "relatedDocs": [
+      579,
+      686,
+      6450,
+      5072
+    ]
+  },
+  {
+    "title": "Neon Genesis Evangelion",
+    "sentences": [
+      "neon genesis evangelion"
+    ],
+    "relatedDocs": [
+      573,
+      8586,
+      687
+    ]
+  },
+  {
+    "title": "Mob Psycho 100",
+    "sentences": [
+      "mob psycho 100"
+    ],
+    "relatedDocs": [
+      688,
+      5,
+      12803,
+      14475,
+      5524
+    ]
+  },
+  {
+    "title": "Made in Abyss",
+    "sentences": [
+      "made in abyss"
+    ],
+    "relatedDocs": [
+      2,
+      414,
+      559
+    ]
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "sentences": [
+      "kaguya sama wa kokurasetai tensai tachi no renai zunousen",
+      "kaguya sama love is war"
+    ],
+    "relatedDocs": [
+      643,
+      1587
+    ]
+  },
+  {
+    "title": "Kakegurui",
+    "sentences": [
+      "kakegurui"
+    ],
+    "relatedDocs": [
+      6683,
+      11775,
+      9559
+    ]
+  },
+  {
+    "title": "Kimi no Na wa.",
+    "sentences": [
+      "kimi no na wa",
+      "your name"
+    ],
+    "relatedDocs": [
+      757
+    ]
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken",
+    "sentences": [
+      "tensei shitara slime datta ken",
+      "that time i got reincarnated as a slime"
+    ],
+    "relatedDocs": [
+      393,
+      1637,
+      12354,
+      13380
+    ]
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "sentences": [
+      "kono subarashii sekai ni shukufuku wo",
+      "konosuba"
+    ],
+    "relatedDocs": [
+      452,
+      584,
+      700,
+      65
+    ]
+  },
+  {
+    "title": "Akame ga Kill!",
+    "sentences": [
+      "akame ga kill"
+    ],
+    "relatedDocs": [
+      3845,
+      5807,
+      9017
+    ]
+  },
+  {
+    "title": "Ansatsu Kyoushitsu",
+    "sentences": [
+      "ansatsu kyoushitsu",
+      "assassination classroom"
+    ],
+    "relatedDocs": [
+      467,
+      712,
+      10129,
+      5272,
+      14460,
+      40
+    ]
+  },
+  {
+    "title": "Kuroko no Basket",
+    "sentences": [
+      "kuroko no basket"
+    ],
+    "relatedDocs": [
+      545,
+      634,
+      662,
+      895,
+      174,
+      25,
+      866,
+      433,
+      815,
+      14684,
+      4501,
+      4986,
+      417,
+      1027,
+      14406,
+      3738,
+      955,
+      999
+    ]
+  },
+  {
+    "title": "Noragami",
+    "sentences": [
+      "noragami"
+    ],
+    "relatedDocs": [
+      351,
+      22,
+      572,
+      269
+    ]
+  },
+  {
+    "title": "Shokugeki no Souma",
+    "sentences": [
+      "shokugeki no souma",
+      "food wars"
+    ],
+    "relatedDocs": [
+      660,
+      12370,
+      608,
+      595,
+      1542,
+      44,
+      4883,
+      550,
+      5356
+    ]
+  },
+  {
+    "title": "Violet Evergarden",
+    "sentences": [
+      "violet evergarden"
+    ],
+    "relatedDocs": [
+      716,
+      591
+    ]
+  },
+  {
+    "title": "Yakusoku no Neverland",
+    "sentences": [
+      "yakusoku no neverland",
+      "the promised neverland"
+    ],
+    "relatedDocs": [
+      728,
+      1518
+    ]
+  },
+  {
+    "title": "Darling in the FranXX",
+    "sentences": [
+      "darling in the franxx"
+    ],
+    "relatedDocs": [
+      10126
+    ]
+  },
+  {
+    "title": "Baki",
+    "sentences": [
+      "baki",
+      "baki the grappler"
+    ],
+    "relatedDocs": [
+      14495,
+      12951,
+      5905,
+      7238
+    ]
+  },
+  {
+    "title": "Nanatsu no Taizai",
+    "sentences": [
+      "nanatsu no taizai",
+      "the seven deadly sins"
+    ],
+    "relatedDocs": [
+      395,
+      1021,
+      3141,
+      4212,
+      14676,
+      10213,
+      448,
+      14155,
+      4142,
+      14817,
+      5370,
+      7953,
+      7459,
+      10049
+    ]
+  },
+  {
+    "title": "Dororo",
+    "sentences": [
+      "dororo"
+    ],
+    "relatedDocs": [
+      489,
+      3950,
+      15075
+    ]
+  },
+  {
+    "title": "Darker than Black",
+    "sentences": [
+      "darker than black"
+    ],
+    "relatedDocs": [
+      6393,
+      439,
+      263,
+      5943
+    ]
+  },
+  {
+    "title": "Berserk",
+    "sentences": [
+      "berserk"
+    ],
+    "relatedDocs": [
+      9785,
+      5705,
+      1430,
+      673,
+      3987,
+      515,
+      799,
+      228
+    ]
+  },
+  {
+    "title": "Soul Eater",
+    "sentences": [
+      "soul eater"
+    ],
+    "relatedDocs": [
+      202,
+      1440,
+      5616
+    ]
+  },
+  {
+    "title": "Charlotte",
+    "sentences": [
+      "charlotte"
+    ],
+    "relatedDocs": [
+      70,
+      5196
+    ]
+  },
+  {
+    "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+    "sentences": [
+      "shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru",
+      "cautious hero the hero is overpowered but overly cautious"
+    ],
+    "relatedDocs": [
+      3613,
+      3508
+    ]
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "sentences": [
+      "kobayashi san chi no maid dragon",
+      "miss kobayashis dragon maid"
+    ],
+    "relatedDocs": [
+      381,
+      1577,
+      24
+    ]
+  },
+  {
+    "title": "Kimi no Suizou wo Tabetai",
+    "sentences": [
+      "kimi no suizou wo tabetai",
+      "i want to eat your pancreas"
+    ],
+    "relatedDocs": [
+      707
+    ]
+  },
+  {
+    "title": "Accel World",
+    "sentences": [
+      "accel world"
+    ],
+    "relatedDocs": [
+      9870,
+      14942,
+      13788,
+      7832
+    ]
+  },
+  {
+    "title": "Elfen Lied",
+    "sentences": [
+      "elfen lied"
+    ],
+    "relatedDocs": [
+      3098,
+      14221
+    ]
+  },
+  {
+    "title": "Black Lagoon",
+    "sentences": [
+      "black lagoon"
+    ],
+    "relatedDocs": [
+      356,
+      5758,
+      492,
+      364
+    ]
+  },
+  {
+    "title": "Goblin Slayer",
+    "sentences": [
+      "goblin slayer"
+    ],
+    "relatedDocs": [
+      5529,
+      4453
+    ]
+  },
+  {
+    "title": "Youjo Senki",
+    "sentences": [
+      "youjo senki",
+      "the saga of tanya the evil"
+    ],
+    "relatedDocs": [
+      343,
+      631,
+      12780,
+      4774
+    ]
+  },
+  {
+    "title": "Vinland Saga",
+    "sentences": [
+      "vinland saga"
+    ],
+    "relatedDocs": [
+      746
+    ]
+  },
+  {
+    "title": "Devilman",
+    "sentences": [
+      "devilman"
+    ],
+    "relatedDocs": [
+      12987,
+      7811,
+      162,
+      4413,
+      13083,
+      15077,
+      10356,
+      2900,
+      4412
+    ]
+  },
+  {
+    "title": "Yuu☆Yuu☆Hakusho",
+    "sentences": [
+      "yuu yuu hakusho",
+      "yu yu hakusho"
+    ],
+    "relatedDocs": [
+      664,
+      5598,
+      8545,
+      11792,
+      9873,
+      14071,
+      14805
+    ]
+  },
+  {
+    "title": "Yu☆Gi☆Oh!",
+    "sentences": [
+      "yu gi oh",
+      "yu gi oh duel monsters"
+    ],
+    "relatedDocs": [
+      14252,
+      7198,
+      4943,
+      12824,
+      1513,
+      5455,
+      5874,
+      5341,
+      5212,
+      13911,
+      14943,
+      10078,
+      8677,
+      14985,
+      13698,
+      15054,
+      14506,
+      5001,
+      5611
+    ]
+  },
+  {
+    "title": "InuYasha",
+    "sentences": [
+      "inuyasha"
+    ],
+    "relatedDocs": [
+      13943,
+      118,
+      536,
+      817,
+      28,
+      4799,
+      5558,
+      1074
+    ]
+  },
+  {
+    "title": "Digimon",
+    "sentences": [
+      "digimon"
+    ],
+    "relatedDocs": [
+      4981,
+      4996,
+      14934,
+      35,
+      5912,
+      14562,
+      15117,
+      5570,
+      15052,
+      5282,
+      5533,
+      9930,
+      7035,
+      14382,
+      874,
+      9856,
+      5322,
+      967,
+      2864,
+      4175,
+      12933,
+      14381,
+      4817,
+      14696,
+      14340,
+      10068,
+      10228,
+      14380,
+      3331,
+      8455
+    ]
+  },
+  {
+    "title": "Pokemon (2019)",
+    "sentences": [
+      "pokemon"
+    ],
+    "relatedDocs": [
+      5230,
+      11228,
+      14779,
+      1046,
+      14994,
+      782,
+      5660,
+      6245,
+      10581,
+      10889,
+      14168,
+      4443,
+      13597,
+      6461,
+      6808,
+      7608,
+      6203,
+      9661,
+      9803,
+      2822,
+      12295,
+      12834,
+      9662,
+      13161,
+      13209,
+      13933,
+      15131,
+      6005,
+      10583,
+      12296,
+      9754,
+      5658,
+      6809,
+      11998,
+      12557,
+      12867,
+      13288,
+      5032,
+      10580,
+      12558,
+      13127,
+      14670,
+      15031,
+      4641,
+      9663,
+      14527,
+      10882,
+      13747,
+      5125,
+      10880,
+      6448,
+      9298,
+      11700,
+      11996,
+      12699,
+      9753,
+      14290,
+      4497,
+      5097,
+      9900,
+      5015,
+      14637,
+      12700,
+      5191,
+      5233,
+      5810,
+      1081,
+      14534,
+      13514,
+      13820,
+      5893,
+      5016,
+      15161,
+      4921,
+      12798,
+      5659,
+      7919,
+      13162,
+      7721,
+      11999,
+      5593,
+      13664,
+      14152,
+      9974,
+      8886,
+      10236
+    ]
+  },
+  {
+    "title": "Cardcaptor Sakura",
+    "sentences": [
+      "cardcaptor sakura"
+    ],
+    "relatedDocs": [
+      475,
+      3840,
+      821,
+      3273,
+      537,
+      227
+    ]
+  },
+  {
+    "title": "Bishoujo Senshi Sailor Moon",
+    "sentences": [
+      "bishoujo senshi sailor moon",
+      "sailor moon"
+    ],
+    "relatedDocs": [
+      1033,
+      121,
+      920,
+      1059,
+      4875,
+      4769,
+      13028,
+      9866,
+      200,
+      969,
+      10038,
+      1058,
+      14829,
+      15013,
+      14706,
+      5716
+    ]
+  },
+  {
+    "title": "Megalo Box",
+    "sentences": [
+      "megalo box"
+    ],
+    "relatedDocs": [
+      240,
+      1487,
+      13366
+    ]
+  },
+  {
+    "title": "Captain Tsubasa (2018)",
+    "sentences": [
+      "captain tsubasa"
+    ],
+    "relatedDocs": [
+      6558,
+      14700,
+      14662,
+      15026,
+      10774,
+      10160,
+      5392,
+      12879,
+      5834,
+      6510,
+      5328,
+      5671
+    ]
+  },
+  {
+    "title": "Fate series",
+    "sentences": [
+      "fate series",
+      "fate"
+    ],
+    "relatedDocs": [
+      629,
+      722,
+      4368,
+      6021,
+      15011,
+      4394,
+      10835,
+      15116,
+      12815
+    ]
+  },
+  {
+    "title": "Gundam",
+    "sentences": [
+      "gundam",
+      "mobile suit gundam"
+    ],
+    "relatedDocs": [
+      993,
+      7987,
+      4563,
+      7637,
+      4024,
+      7999,
+      4055,
+      397,
+      464,
+      785,
+      14737,
+      11549,
+      7925,
+      14678,
+      53,
+      6815,
+      7659,
+      8610,
+      9925,
+      10592,
+      14009,
+      198,
+      810,
+      890,
+      5525,
+      3829,
+      1467,
+      5396,
+      15157,
+      463,
+      3997,
+      6701,
+      13444,
+      1178,
+      4739,
+      5856,
+      12126,
+      4570,
+      11057,
+      5293,
+      166,
+      534,
+      1463,
+      6568,
+      13259,
+      14362,
+      5826,
+      7179,
+      4704,
+      6275,
+      9880,
+      12705,
+      14653,
+      323,
+      1480,
+      3602,
+      3732,
+      13177,
+      13560,
+      14745,
+      13213,
+      93,
+      865,
+      4607,
+      8609,
+      13774,
+      15062,
+      3618,
+      5201,
+      13470,
+      270,
+      1075,
+      5371,
+      12499,
+      14399,
+      978,
+      7682,
+      78,
+      143,
+      520,
+      4061,
+      6076,
+      14605,
+      9553,
+      14654,
+      3898,
+      13564,
+      1563,
+      6455,
+      14837,
+      5935,
+      3692,
+      3883,
+      3925,
+      4543,
+      322,
+      2947,
+      5814,
+      1366,
+      6362,
+      7278
+    ]
+  },
+  {
+    "title": "Psycho-Pass",
+    "sentences": [
+      "psycho pass"
+    ],
+    "relatedDocs": [
+      633,
+      3856,
+      8298,
+      974,
+      1628,
+      3356,
+      6305,
+      928
+    ]
+  },
+  {
+    "title": "Hellsing",
+    "sentences": [
+      "hellsing"
+    ],
+    "relatedDocs": [
+      5382,
+      669,
+      14370,
+      936,
+      4855
+    ]
+  },
+  {
+    "title": "Beyblade Burst",
+    "sentences": [
+      "beyblade burst",
+      "beyblade burst evolution"
+    ],
+    "relatedDocs": [
+      13314,
+      1139,
+      8523,
+      6411,
+      7671,
+      5817,
+      6002,
+      13853,
+      5090,
+      1413,
+      9303,
+      10050
+    ]
+  },
+  {
+    "title": "Dragon Quest",
+    "sentences": [
+      "dragon quest",
+      "dragon quest dai no daibouken"
+    ],
+    "relatedDocs": [
+      8903,
+      6640,
+      12920,
+      3503,
+      4869,
+      1100,
+      8906,
+      9165,
+      10226
+    ]
+  }
+]
